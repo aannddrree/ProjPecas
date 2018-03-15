@@ -13,9 +13,9 @@
 
 	<properties>
 		<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
-		<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/bdagenda2" />
-		<property name="javax.persistence.jdbc.user" value="root" />
-		<property name="javax.persistence.jdbc.password" value="1234" />
+		<property name="javax.persistence.jdbc.url" value="jw0ch9vofhcajqg7.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/v5wkrujfdh7y8rti" />
+		<property name="javax.persistence.jdbc.user" value="dcjmuvs6s8xu5zcm" />
+		<property name="javax.persistence.jdbc.password" value="q2r3o672wesj53dr" />
 
 		<property name="hibernate.dialect" value="org.hibernate.dialect.MySQL5InnoDBDialect" />
 		<property name="hibernate.show_sql" value="true" />
