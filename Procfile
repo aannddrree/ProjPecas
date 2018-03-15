@@ -1,1 +1,1 @@
-web: java -jar target/ProjPecas.war
+web: java -jar target/ProjPecas-0.0.1-SNAPSHOT.war
